@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GettingToKnowAndroidGeekJava5LessonIntent</string>
+    <string name="text_input">Введите число</string>
+    <string name="text_result">Результат =</string>
+    <string name="text_title_setting">Основные настройки Калькулятора</string>
+    <string name="text_title_theme_setting">Выберите тему:</string>
+    <string name="text_title_formula_setting">Введите формулу для расчета</string>
+</resources>
